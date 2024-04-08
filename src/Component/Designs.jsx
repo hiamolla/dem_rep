@@ -5,7 +5,7 @@ function Designs({ clickMenu }) {
     <div onKeyDown={clickMenu} className="bg-slate-300 mt-10">
       <div className="text-gray-700 py-5 mt-5 flex flex-col px-5 md:px-40">
         <h1 className="text-lg text-center font-semibold mb-4 sm:text-2xl">
-          Lorem ipsum dolor sit, amet consectetur adipisicing
+           dolor sit, amet consectetur adipisicing
         </h1>
         <p className="text-justify">
           Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do
